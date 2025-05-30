@@ -59,7 +59,7 @@ This project emphasizes thoughtful UI/UX design following inclusivity heuristics
 **Phase**: Design and Planning, implementation in progress. 
 
 
-## 📋 Paper Prototypes
+## Prototype:
 
 ### 1. Main Menu
 Central hub featuring navigation options, to-do list preview, and quick note functionality
