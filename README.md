@@ -29,11 +29,11 @@ The Student Planner is a user-friendly application designed to help students org
 This project emphasizes thoughtful UI/UX design following inclusivity heuristics to ensure accessibility and usability for all students. The target audience to this planner are students trying to organize their personal and academic schedules
 
 #### Sitemap
-![Sitemap](Sitemap-image.png)
+![Sitemap](Sitemap.png)
 *High-level application structure showing navigation flow between microservices*
 
 #### Wireframes
-![Wireframes](Wireframe-image.png)
+![Wireframes](Wireframe.png)
 *Detailed wireframes showing UI element placement*
 
 ### Inclusivity Heuristics Implementation
