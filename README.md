@@ -14,8 +14,8 @@ The Student Planner is a user-friendly application designed to help students org
 
 ### Core Functionality
 - **Multiple View Options**: Calendar view, planner view, and to-do list format
-- **Task Creation**: Simple, streamlined schedule creator with minimal required fields
-- **Quick Notes**: Instant note-taking functionality accessible from the main menu
+- **Task Creation**: Simple yet minimal schedule creator for simplicity
+- **Quick Notes**: Instant note-taking button accessible from the main menu
 - **Task Management**: Check off completed tasks and edit existing entries
 
 ### User Experience Focus
@@ -62,33 +62,22 @@ This project emphasizes thoughtful UI/UX design following inclusivity heuristics
 ## Prototype:
 
 ### 1. Main Menu
-Central hub featuring navigation options, to-do list preview, and quick note functionality
+Main Menu featuring navigation options, to-do list preview, and quick note functionality
 
 ### 2. Planner View  
-List-based activity overview with chronological organization
+List-based activity overview with chronological organization and listed tasks 
 
 ### 3. Calendar View
-Traditional calendar interface for date-based task visualization
+Traditional calendar interface for date-based planning
 
 ### 4. Schedule Creator
-Streamlined task creation form with essential fields only
+Easy task creation microservice, will likely use SQLite
 
-##  Course Integration
-
-This project is being developed as part of CS 361 (Software Engineering I) with emphasis on:
-- User-centered design principles
-- Inclusivity and accessibility considerations
-- Software engineering best practices
-- Iterative development methodology
 
 ## Design Tools
 
 - **Wireframing & Sitemap**: Microsoft Visio
 - **Design Documentation**: Inclusivity Heuristics Framework
 
-## Future Enhancements
-
-- Integration with existing calendar applications
-- Progress tracking and analytics
 
 
